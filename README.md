@@ -16,6 +16,9 @@
 - Timezone: Automatically set timezone to current location
 - Update VX: Update all VX files, scripts and utilities, along with any bugfixes for issues reported by users
 
+**Theming**
+- If you prefer a stock standard Plasma desktop then open a terminal and run <b><code>sudo defaultkde</code></b>.
+
 **Update Notifier**
 - When logging in you will be notified if new package updates are available. Update to remove the "nag" or ignore it to let updates build up. Remove "Notifier" from Autostart to remove the check.
 
