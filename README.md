@@ -3,9 +3,10 @@
 
 **Features**
 - Light, highly-optimised base
-- Get setup easily with helper utilities
-- Minimal theming, no bloat or bling bling
+- Automatic configuration for bluetooth hardware, display graphics (ATI and Intel), laptops and SSD drives
+- Basic software set, minimal theming, no bloat, no bling bling
 - Uses the default Void repos
+- BIOS and UEFI compatible
 
 **NEW: Overhauled Tools**
 - Accessibility: Enable brltty and/or espeakup
@@ -31,3 +32,4 @@
 
 **Known Issues**
 - Appmaker does not work in live session - connect to internet and run Menu > Update to complete the setup. Most VX utilities require an active and stable internet connection to function correctly.
+- Backup incorrectly reports estimated backup size by 2x
