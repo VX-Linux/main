@@ -30,6 +30,13 @@
 **Login**
 - anon / live
 
+**Things to do once connected (if not already connected when first logging in)**
+- Run Timezone to update to current location
+- Run Update to be fully up-to-date before installing
+
+**Installation**
+- Open a terminal and run <code>vxinstaller</code>
+
 **Known Issues**
 - Appmaker does not work in live session - connect to internet and run Menu > Update to complete the setup. Most VX utilities require an active and stable internet connection to function correctly.
 - Backup incorrectly reports estimated backup size by 2x
