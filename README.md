@@ -44,4 +44,5 @@
 - Appmaker does not work in live session - connect to internet and run Menu > Update to complete the setup. Most VX utilities require an active and stable internet connection to function correctly.
 - Backup incorrectly reports estimated backup size by 2x
 
-<a href="https://vxlinux.org/roadmap/">Roadmap</a>
+**Roadmap**
+- <a href="https://vxlinux.org/roadmap/">Roadmap</a>
