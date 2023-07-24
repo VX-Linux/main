@@ -44,6 +44,4 @@
 - Appmaker does not work in live session - connect to internet and run Menu > Update to complete the setup. Most VX utilities require an active and stable internet connection to function correctly.
 - Backup incorrectly reports estimated backup size by 2x
 
-**Roadmap**
-- Image Writer: easily burn images to flash media
-- Localepurge: remove all unneeded locales
+<a href="https://vxlinux.org/roadmap/">Roadmap</a>
