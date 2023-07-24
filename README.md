@@ -46,4 +46,4 @@
 
 **Roadmap**
 - Image Writer: easily burn images to flash media
-- Localepurge: remove all unneeded locales (complete)
+- Localepurge: remove all unneeded locales
