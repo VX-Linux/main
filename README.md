@@ -18,6 +18,13 @@
 - Timezone: Automatically set timezone to current location
 - Update VX: Update all VX files, scripts and utilities, along with any bugfixes for issues reported by users
 
+**Aliases**
+- **install** pkg = sudo xbps-install -Su pkg
+- **query** pkg = sudo xbps-query -Rs pkg
+- **remove** pkg = sudo xbps-remove -Ro pkg
+- **logout** = loginctl terminate-user $USER
+- **services** = sudo vsv
+
 **Theming**
 - If you prefer a stock standard Plasma desktop then open a terminal and run <b><code>sudo defaultkde</code></b> and logout. Similarly run <b><code>sudo defaultvx</code></b> to revert to VX defaults. Note: For fresh installation, backup your dotfiles if you've made customisations.
 
