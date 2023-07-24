@@ -19,7 +19,7 @@
 - Update VX: Update all VX files, scripts and utilities, along with any bugfixes for issues reported by users
 
 **Theming**
-- If you prefer a stock standard Plasma desktop then open a terminal and run <b><code>sudo defaultkde</code></b> and logout.
+- If you prefer a stock standard Plasma desktop then open a terminal and run <b><code>sudo defaultkde</code></b> and logout. Similarly run <b><code>sudo defaultvx</code></b> to revert to VX defaults.
 
 **Update Notifier**
 - When logging in you will be notified if new package updates are available. Update to remove the "nag" or ignore it to let updates build up. Remove "Notifier" from Autostart to remove the check.
