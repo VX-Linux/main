@@ -37,6 +37,13 @@
 **Installation**
 - Open a terminal and run <code>vxinstaller</code>
 
+**Issues and Suggestions**
+- If you use VX and have issues or suggestions to make it better please use the <a href="https://github.com/VX-Linux/main/issues">Issues</a> section
+
 **Known Issues**
 - Appmaker does not work in live session - connect to internet and run Menu > Update to complete the setup. Most VX utilities require an active and stable internet connection to function correctly.
 - Backup incorrectly reports estimated backup size by 2x
+
+**Roadmap**
+- Image Writer: easily burn images to flash media
+- Localepurge: remove all unneeded locales (complete)
