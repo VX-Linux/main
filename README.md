@@ -11,7 +11,7 @@
 **NEW: Overhauled Tools**
 - Accessibility: Enable brltty and/or espeakup
 - Appmaker: Create apps for your favourite online activities
-- Autoconfigure: Setup your hardware and remove unneeded packages
+- Autoconfigure: Setup your hardware and remove unneeded packages (<a href="https://vxlinux.org/autoconfigure/" target="_blank">more info</a>)
 - Backup: Backup your entire installation (single file system only)
 - Cleanup: Empty trash and package cache, remove unused kernels and packages
 - Mirrors: Select and activate custom mirrors (Fastly CDN is the default)
