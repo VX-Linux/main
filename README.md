@@ -25,7 +25,7 @@
 - When logging in you will be notified if new package updates are available. Update to remove the "nag" or ignore it to let updates build up. Remove "Notifier" from Autostart to remove the check.
 
 **Sudo Password**
-- Sudo password is disabled to make setup & daily management more convenient for the user. To disable this delete /etc/sudoers.d/wheel.
+- Sudo password is disabled to make setup & daily management more convenient for the user. To disable this delete /etc/sudoers.d/wheel. 
 
 **Login**
 - anon / live
