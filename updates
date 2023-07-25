@@ -1,5 +1,5 @@
 Localepurge
-Remove unused locales to save space
+- Remove unused locales to save space
 
 Notifier
-Now includes notification of new VX features when available
+- Now includes notification of new VX features when available
