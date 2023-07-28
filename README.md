@@ -25,9 +25,6 @@
 - **logout** = loginctl terminate-user $USER
 - **services** = sudo vsv
 
-**Theming**
-- If you prefer a stock standard Plasma desktop then open a terminal and run <b><code>sudo defaultkde</code></b> and logout. Similarly run <b><code>sudo defaultvx</code></b> to revert to VX defaults. Note: For fresh installation, backup your dotfiles if you've made customisations.
-
 **Update Notifier**
 - When logging in you will be notified if new package updates are available. Update to remove the "nag" or ignore it to let updates build up. Remove "Notifier" from Autostart to remove the check.
 
@@ -51,6 +48,7 @@
 - Appmaker does not work in live session - connect to internet and run Menu > Update to complete the setup. Most VX utilities require an active and stable internet connection to function correctly.
 - Backup incorrectly reports estimated backup size by 2x
 - Menu overlap between pages
+- Desktop not displayed on secondary monitor/s
 
 **Roadmap**
 - <a href="https://vxlinux.org/roadmap/">Roadmap</a>
