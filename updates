@@ -1,7 +1,8 @@
 FIXED
+Appmaker - Reduce default res from 720p to 540p
 Appmaker - Shortcut hidden if dependencies not met
-Update - Update npm before adding appmaker
+Update - Update npm before adding appmaker shortcut
 
 NEW
 Notifier - New VX features and fixes
-Writer - Easily burn images to flash media
+Writer - dd wrapper for writing to usb drives
