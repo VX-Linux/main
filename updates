@@ -1,5 +1,7 @@
+FIXED
+Appmaker - Shortcut hidden if dependencies not met
+Update - Update npm before adding appmaker
+
 NEW
 Notifier - New VX features and fixes
 Writer - Easily burn images to flash media
-
-FIXED
