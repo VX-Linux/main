@@ -1,8 +1,7 @@
 FIXED
-Appmaker - Reduce default res from 720p to 540p
-Appmaker - Shortcut hidden if dependencies not met
-Update - Update npm before adding appmaker shortcut
+Backup - Correct estimated backup size
 
 NEW
-Notifier - New VX features and fixes
+Notifier - Fixes and new features
+Services - Enable / disable services
 Writer - dd wrapper for writing to usb drives
