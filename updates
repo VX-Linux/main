@@ -3,5 +3,3 @@ Backup - Correct estimated backup size
 
 NEW
 Notifier - Fixes and new features
-Services - Enable / disable services
-Writer - Wrapper for dd
