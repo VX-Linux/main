@@ -9,14 +9,14 @@
 - BIOS and UEFI compatible
 
 **NEW: Overhauled Tools**
-- Accessibility: Enable brltty and/or espeakup
 - Appmaker: Create apps for your favourite online activities
-- Autoconfigure: Setup your hardware and remove unneeded packages (<a href="https://vxlinux.org/autoconfigure/" target="_blank">more info</a>)
 - Backup: Backup your entire installation (single file system only)
 - Cleanup: Empty trash and package cache, remove unused kernels and packages
-- Mirrors: Select and activate custom mirrors (Fastly CDN is the default)
+- Default: Replace VX layout with a default Plasma desktop
+- Services: Enable / disable service
 - Timezone: Automatically set timezone to current location
-- Update VX: Update all VX files, scripts and utilities, along with any bugfixes for issues reported by users
+- Update: Update all VX files, scripts and utilities, along with any bugfixes for issues reported by users
+- Xmirror: Select and activate custom mirrors (Fastly CDN is the default)
 
 **Aliases**
 - **install** pkg = sudo xbps-install -Su pkg
@@ -34,9 +34,11 @@
 **Login**
 - anon / live
 
-**Things to do once connected (if not already connected when first logging in)**
-- Run Timezone to update to current location
-- Run Update to be fully up-to-date before installing
+**Things to do before installing to disk**
+- Remove any firmware / packages you don't need and run Cleanup to remove leftovers
+- Avoid installing large / many software as you will likely run out of (live-session) space
+- Run Services to configure your startup services
+- Run Update to download VX dependencies and be fully up-to-date
 
 **Installation**
 - Open a terminal and run <code>vxinstaller</code>
@@ -45,9 +47,6 @@
 - If you use VX and have issues or suggestions to make it better please use the <a href="https://github.com/VX-Linux/main/issues">Issues</a> section
 
 **Known Issues**
-- Appmaker does not work in live session - connect to internet and run Menu > Update to complete the setup. Most VX utilities require an active and stable internet connection to function correctly.
-- Backup incorrectly reports estimated backup size by 2x
-- Menu overlap between pages
 - Desktop not displayed on secondary monitor/s
 
 **Roadmap**
