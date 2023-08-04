@@ -48,7 +48,7 @@
 
 **Known Issues**
 - Desktop not displayed on secondary monitor/s
-- When changing system font size Yad dialogs do not follow suit - enter your home folder and run sudo cp -r .config/gtk* /root/.config
+- When changing system font size Yad dialogs do not follow suit<br>Enter home folder and run sudo cp -r .config/gtk* /root/.config
 - Transmission references anon in settings<br>sed -i "s/anon/YOURUSERNAME/g" /home/YOURUSERNAME/.config/transmission/settings.json
 
 **Roadmap**
