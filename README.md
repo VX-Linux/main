@@ -57,7 +57,8 @@
 **Updates 5.3**
 * Add selective options to cleanup
 * Fix clamav installer
+* Fix FreeOffice icons
 * Standardardise font sizes across desktop, terminal, etc
 * Update Chrome installer to remove extra apps now installed by google
+* Update Edge installer to 115
 * Update Virtualbox script to newer extension pack (7.0.10)
-
