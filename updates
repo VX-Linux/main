@@ -1,4 +1,4 @@
-* Added selective options to cleanup
+* Add selective options to cleanup
 * Standardardise font sizes across desktop, terminal, etc
 * Updated Chrome installer to remove extra apps installed by google
 * Updated Virtualbox script to newer extension pack (7.0.10)
