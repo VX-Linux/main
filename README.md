@@ -53,3 +53,9 @@
 
 **Roadmap**
 - <a href="https://vxlinux.org/roadmap/">Roadmap</a>
+
+**Updates 5.3**
+* Add selective options to cleanup
+* Standardardise font sizes across desktop, terminal, etc
+* Update Chrome installer to remove extra apps now installed by google
+* Update Virtualbox script to newer extension pack (7.0.10)
