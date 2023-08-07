@@ -58,4 +58,4 @@
 * Add selective options to cleanup
 * Standardardise font sizes across desktop, terminal, etc
 * Update Chrome installer to remove extra apps now installed by google
-* Update Virtualbox script to newer extension pack (7.0.10)
+* Update Virtualbox installer to newer extension pack (7.0.10)
