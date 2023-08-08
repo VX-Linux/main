@@ -51,9 +51,6 @@
 - When changing system font size Yad dialogs do not follow suit<br>- Enter home folder and run sudo cp -r .config/gtk* /root/.config
 - Transmission references anon in settings<br>- sed -i "s/anon/YOURUSERNAME/g" /home/YOURUSERNAME/.config/transmission/settings.json
 
-**Roadmap**
-- <a href="https://vxlinux.org/roadmap/">Roadmap</a>
-
 **Updates 5.3**
 - Add selective options to cleanup
 - Fix clamav installer
@@ -65,4 +62,3 @@
 
 **Updates 5.4**
 - Add Create ISO from folder action (data)
-
