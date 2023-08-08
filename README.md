@@ -1,5 +1,5 @@
 # VX Linux
-<img src="https://github.com/VX-Linux/main/blob/main/vx-5.1-desktop.jpg" style="width:960px;border-radius:10px!important;">
+<img src="https://github.com/VX-Linux/main/blob/main/vx-5.3-desktop.jpg" style="width:960px;border-radius:10px!important;">
 
 **Features**
 - Light, highly-optimised base
