@@ -35,7 +35,6 @@
 - anon / live
 
 **Things to do before installing to disk**
-- Remove any firmware / packages you don't need and run Cleanup to remove leftovers
 - Avoid installing large / many software as you will likely run out of (live-session) space
 - Run Services to configure your startup services
 - Run Update to download VX dependencies and be fully up-to-date
