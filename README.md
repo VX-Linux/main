@@ -51,14 +51,11 @@
 - When changing system font size Yad dialogs do not follow suit<br>- Enter home folder and run sudo cp -r .config/gtk* /root/.config
 - Transmission references anon in settings<br>- sed -i "s/anon/YOURUSERNAME/g" /home/YOURUSERNAME/.config/transmission/settings.json
 
-**Updates 5.3**
+**Latest Updates**
+- Add Create ISO from folder action (data)
 - Add selective options to cleanup
 - Fix clamav installer
 - Fix FreeOffice icons
-- Standardise font sizes across desktop, terminal, etc
 - Update Chrome installer to remove extra apps now installed by google
 - Update Edge installer to 115
 - Update Virtualbox installer to newer extension pack (7.0.10)
-
-**Updates 5.4**
-- Add Create ISO from folder action (data)
