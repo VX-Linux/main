@@ -42,4 +42,4 @@
 - To restore wayland session option<br><code>sed -i "s/NoDisplay=true//g" /usr/share/wayland-sessions/plasmawayland.desktop</code>
 
 **Deb / Rpm Installer**
-This is already included - right-click on the file and select Install DEB or Install RPM.
+- This is already included - right-click on the file and select Install DEB or Install RPM.
