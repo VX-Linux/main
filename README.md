@@ -18,13 +18,6 @@
 - Update: Update all VX files, scripts and utilities, along with any bugfixes for issues reported by users
 - Xmirror: Select and activate custom mirrors (Fastly CDN is the default)
 
-**Aliases**
-- **install** pkg = sudo xbps-install -Su pkg
-- **query** pkg = sudo xbps-query -Rs pkg
-- **remove** pkg = sudo xbps-remove -Ro pkg
-- **logout** = loginctl terminate-user $USER
-- **services** = sudo vsv
-
 **Update Notifier**
 - When logging in you will be notified if new package updates are available. Update to remove the "nag" or ignore it to let updates build up. Remove "Notifier" from Autostart to remove the check.
 
@@ -45,16 +38,8 @@
 **Issues and Suggestions**
 - If you use VX and have issues or suggestions to make it better please use the <a href="https://github.com/VX-Linux/main/issues">Issues</a> section
 
-**Known Issues**
-- Desktop not displayed on secondary monitor/s
-- When changing system font size Yad dialogs do not follow suit<br>- Enter home folder and run sudo cp -r .config/gtk* /root/.config
-- Transmission references anon in settings<br>- sed -i "s/anon/YOURUSERNAME/g" /home/YOURUSERNAME/.config/transmission/settings.json
+**Wayland Disabled by Default**
+- To restore wayland session option<br><code>sed -i "s/NoDisplay=true//g" /usr/share/wayland-sessions/plasmawayland.desktop</code>
 
-**Latest Updates**
-- Add Create ISO from folder action (data)
-- Add selective options to cleanup
-- Fix clamav installer
-- Fix FreeOffice icons
-- Update Chrome installer to remove extra apps now installed by google
-- Update Edge installer to 115
-- Update Virtualbox installer to newer extension pack (7.0.10)
+**Deb / Rpm Installer**
+This is already included - right-click on the file and select Install DEB or Install RPM.
