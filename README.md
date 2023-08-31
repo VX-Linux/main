@@ -43,3 +43,6 @@
 
 **Deb / Rpm Installer**
 - Right-click on the file and select Install DEB or Install RPM.
+
+**Updates arriving in v6.0**
+- Unused kernels added to Cleanup
