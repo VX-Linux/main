@@ -12,10 +12,10 @@
 - Appmaker: Create apps for your favourite online activities
 - Backup: Backup your entire installation (single file system only)
 - Cleanup: Empty trash and package cache, remove unused kernels and packages
-- Default: Replace VX layout with a default Plasma desktop
+- Layout: Choose between several layouts (Default Plasma, Elementary, Macish, MXish, Win7, Win11)
 - Services: Enable / disable service
-- Timezone: Automatically set timezone to current location
-- Update: Update all VX files, scripts and utilities, along with any bugfixes for issues reported by users
+- Sync: Automatically set timezone to current location
+- Update: Update system and all VX files, scripts and utilities, along with any bugfixes for issues reported by users
 - Xmirror: Select and activate custom mirrors (Fastly CDN is the default)
 
 **Update Notifier**
@@ -39,10 +39,11 @@
 - If you use VX and have issues or suggestions to make it better please use the <a href="https://github.com/VX-Linux/main/issues">Issues</a> section
 
 **Wayland Disabled by Default**
-- To restore wayland session option<br><code>sed -i "s/NoDisplay=true//g" /usr/share/wayland-sessions/plasmawayland.desktop</code>
+- To restore wayland session option open a terminal and run sudo enable-wayland and logout. The Wayland session will now be available.
 
 **Deb / Rpm Installer**
 - Right-click on the file and select Install DEB or Install RPM.
 
 **Updates arriving in v6.0**
+- Layout switcher
 - Unused kernels added to Cleanup
