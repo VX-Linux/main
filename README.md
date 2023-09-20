@@ -39,7 +39,7 @@
 - If you use VX and have issues or suggestions to make it better please use the <a href="https://github.com/VX-Linux/main/issues">Issues</a> section
 
 **Wayland Disabled by Default**
-- To restore wayland session option open a terminal and run sudo enable-wayland and logout. The Wayland session will now be available.
+- To restore wayland session option open a terminal and run <code><b>sudo enable-wayland</b></code> and logout. The Wayland session will now be available.
 
 **Deb / Rpm Installer**
 - Right-click on the file and select Install DEB or Install RPM.
