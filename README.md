@@ -30,7 +30,7 @@
 **Things to do before installing to disk**
 - Avoid installing large / many software as you will likely run out of (live-session) space
 - Run Services to configure your startup services
-- Run Update to download VX dependencies and be fully up-to-date
+- Run Update to download VX updates and be fully up-to-date
 
 **Installation**
 - Open a terminal and run <code>vxinstaller</code>
