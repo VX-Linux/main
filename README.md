@@ -4,7 +4,7 @@
 **Features**
 - Light, highly-optimised base
 - Automatic configuration for bluetooth hardware, display graphics (ATI and Intel), laptops and SSD drives
-- Basic software set, minimal theming, no bloat, no bling bling
+- Light software set, minimal theming, no bloat, no bling bling
 - Uses the default Void repos
 - BIOS and UEFI compatible
 
@@ -45,5 +45,6 @@
 - Right-click on the file and select Install DEB or Install RPM.
 
 **Updates arriving in v6.0**
+- Browser manager
 - Layout switcher
 - Unused kernels added to Cleanup
