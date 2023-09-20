@@ -10,11 +10,11 @@
 
 **NEW: Overhauled Tools**
 - Appmaker: Create apps for your favourite online activities
-- Backup: Backup your entire installation (single file system only)<br>Open and terminal and run <code>sudo backupvx</code>. Saved to /bak
-- Cleanup: Empty trash and package cache, remove unused kernels and packages<br>Alt-F2 > sudo cleanvx
+- Backup: Backup your entire installation (single file system only)<br>- Open and terminal and run <code>sudo backupvx</code>. Saved to /bak
+- Cleanup: Empty trash and package cache, remove unused kernels and packages<br>- Alt-F2 > sudo cleanvx
 - Layout: Choose between several layouts (Default Plasma, Elementary, Macish, MXish, Win7, Win11)
 - Services: Enable / disable service
-- Sync: Automatically set timezone to current location
+- Sync: Automatically set timezone to current location<br>- Alt-F2 > sudo syncvx
 - Update: Update system and all VX files, scripts and utilities, along with any bugfixes for issues reported by users
 - Xmirror: Select and activate custom mirrors (Fastly CDN is the default)
 
