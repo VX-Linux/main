@@ -11,7 +11,7 @@
 **NEW: Overhauled Tools**
 - Appmaker: Create apps for your favourite online activities
 - Backup: Backup your entire installation (single file system only)<br>- Open a terminal and run <code>sudo backupvx</code>. Saved to /bak
-- Browser Manager: Install/uninstall popular browsers (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
+- Browser Manager: Install/uninstall popular browsers<br>(Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
 - Cleanup: Empty trash and package cache, remove unused kernels and packages<br>- Alt-F2 > <code>sudo cleanvx</code>
 - Layout: Choose between several layouts (Default Plasma, Elementary, Macish, MXish, Win7, Win11)
 - Services: Enable/disable services
