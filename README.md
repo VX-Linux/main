@@ -13,7 +13,7 @@
 - Backup: Backup your entire installation (single file system only)<br>- Open a terminal and run <code>sudo backupvx</code>. Saved to /bak
 - Browser Manager: Install/uninstall popular browsers<br>(Brave, Chrome, Chromium, Edge, Falkon, Firefox, Pale Moon, Tor, Vivaldi, Waterfox)
 - Cleanup: Empty trash and package cache, remove unused kernels and packages<br>- Alt-F2 > <code>sudo cleanvx</code>
-- Layout: Choose between several layouts (Default Plasma, Elementary, Macish, MXish, Win7, Win11)
+- Layout: Choose between several layouts (Default Plasma, Elementary, Mac, MX, Win7, Win11)
 - Services: Enable/disable services
 - Sync: Automatically set timezone to current location<br>- Alt-F2 > <code>sudo syncvx</code>
 - Update: Full system update and update all VX files, scripts and utilities
