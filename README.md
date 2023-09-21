@@ -10,7 +10,7 @@
 
 **NEW: Overhauled Tools**
 - Appmaker: Create apps for your favourite online activities
-- Backup: Backup your entire installation (single file system only)<br>- Open and terminal and run <code>sudo backupvx</code>. Saved to /bak
+- Backup: Backup your entire installation (single file system only)<br>- Open a terminal and run <code>sudo backupvx</code>. Saved to /bak
 - Cleanup: Empty trash and package cache, remove unused kernels and packages<br>- Alt-F2 > sudo cleanvx
 - Layout: Choose between several layouts (Default Plasma, Elementary, Macish, MXish, Win7, Win11)
 - Services: Enable / disable service
