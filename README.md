@@ -48,3 +48,5 @@
 - Browser manager
 - Layout switcher
 - Unused kernels added to Cleanup
+- Wayland is default in preparation for upcoming Plasma 6.0
+
