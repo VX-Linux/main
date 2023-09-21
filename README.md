@@ -11,18 +11,19 @@
 **NEW: Overhauled Tools**
 - Appmaker: Create apps for your favourite online activities
 - Backup: Backup your entire installation (single file system only)<br>- Open a terminal and run <code>sudo backupvx</code>. Saved to /bak
-- Cleanup: Empty trash and package cache, remove unused kernels and packages<br>- Alt-F2 > sudo cleanvx
+- Browser Manager: Install/uninstall popular browsers (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
+- Cleanup: Empty trash and package cache, remove unused kernels and packages<br>- Alt-F2 > <code>sudo cleanvx</code>
 - Layout: Choose between several layouts (Default Plasma, Elementary, Macish, MXish, Win7, Win11)
-- Services: Enable / disable service
-- Sync: Automatically set timezone to current location<br>- Alt-F2 > sudo syncvx
-- Update: Update system and all VX files, scripts and utilities, along with any bugfixes for issues reported by users
-- Xmirror: Select and activate custom mirrors (Fastly CDN is the default)
+- Services: Enable/disable services
+- Sync: Automatically set timezone to current location<br>- Alt-F2 > <code>sudo syncvx</code>
+- Update: Full system update and update all VX files, scripts and utilities
+- Xmirror: Select and activate custom mirrors (Fastly CDN is the default)<br>- Open a terminal and run <code>sudo xmirror</code>
 
 **Update Notifier**
 - When logging in you will be notified if new package updates are available. Update to remove the "nag" or ignore it to let updates build up. Remove "Notifier" from Autostart to remove the check.
 
 **Sudo Password**
-- Sudo password is disabled to make setup & daily management more convenient for the user. To disable this delete /etc/sudoers.d/wheel. 
+- Sudo password is disabled to make setup & daily management more convenient and so you don't have to enter your password dozens of times a day even though you've already authenticated yourself by correct login... To disable this delete /etc/sudoers.d/wheel. 
 
 **Login**
 - anon / live
@@ -32,14 +33,8 @@
 - Run Services to configure your startup services
 - Run Update to download VX updates and be fully up-to-date
 
-**Installation**
-- Open a terminal and run <code>vxinstaller</code>
-
-**Issues and Suggestions**
-- If you use VX and have issues or suggestions to make it better please use the <a href="https://github.com/VX-Linux/main/issues">Issues</a> section
-
-**Wayland Disabled by Default**
-- To restore wayland session option open a terminal and run <code><b>sudo enable-wayland</b></code> and logout. The Wayland session will now be available. Many things will not work correctly.
+**Wayland session hidden by default**
+- To restore wayland session option open a terminal and run <code><b>sudo enable-wayland</b></code> and logout. The Wayland session will now be available.
 
 **Deb / Rpm Installer**
 - Right-click on the file and select Install DEB or Install RPM.
@@ -48,5 +43,4 @@
 - Browser manager
 - Layout switcher
 - Unused kernels added to Cleanup
-- Wayland is default in preparation for upcoming Plasma 6.0
-
+- Wayland session is default in preparation for upcoming Plasma 6.0
