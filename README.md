@@ -41,6 +41,7 @@
 
 **Updates arriving in v6.0**
 - Browser manager
+- ISO built with new updated mklive
 - Layout switcher
 - Unused kernels added to Cleanup
 - Wayland session is default in preparation for upcoming Plasma 6.0
