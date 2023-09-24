@@ -28,9 +28,10 @@
 - anon / live
 
 **Things to do before installing to disk**
-- Avoid installing large / many software as you will likely run out of (live-session) space
+- Set your custom keyboard and language
 - Run Service Manager to configure your startup services
 - Run Appmaker once so it's activated and available after installation
+- Avoid installing large / many software as you will likely run out of (live-session) space
 - Update VX
 
 **Deb / Rpm Installer**
