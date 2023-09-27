@@ -6,7 +6,7 @@
 - Automatic configuration for bluetooth hardware, display graphics (ATI and Intel), laptops and SSD drives
 - BIOS and UEFI compatible
 - Browser Manager: Install/uninstall popular browsers
-- Layout: Choose between several layouts (Default Plasma, Elementary, Mac, MX, Win7, Win11)
+- Layout: Choose between several layouts (Blank, Default Plasma, Elementary, Mac, MX, VX5, Win7, Win10, Win11)
 - Light, highly-optimised base
 - Light software set, minimal theming, no bloat, no bling bling
 - Service Manager: Enable/disable services
