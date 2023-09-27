@@ -38,7 +38,7 @@
 - Double-click on the file to install in terminal
 
 **Updates arriving in v6.0**
-- All installers updated
+- All installers updated (most have been updated to download the latest release)
 - Browser manager
 - ISO built with new updated mklive
 - Layout switcher
