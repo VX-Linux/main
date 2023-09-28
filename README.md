@@ -40,7 +40,7 @@
 
 **Updates arriving in v6.0**
 - All installers updated (most have been updated to download the latest release)
-- Browser manager
+- Browser manager (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
 - ISO built with new updated mklive
 - Layout switcher
 - Unused kernels added to Cleanup
