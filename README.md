@@ -14,7 +14,7 @@
 - Uses the default Void repos
 
 **VX Tools**
-- Backup: Backup your entire installation (single file system only)<br>- Open a terminal and run <code>sudo backupvx</code>. Saved to /bak
+- Backup: Backup your entire installation (single file system only)<br>- Alt-F2 > <code>sudo backupvx</code>. Saved to /bak
 - Cleanup: Empty trash and package cache, remove unused kernels and packages<br>- Alt-F2 > <code>sudo cleanvx</code>
 - Sync: Automatically set timezone to current location<br>- Alt-F2 > <code>sudo syncvx</code>
 - Update: Update all VX files, scripts and utilities<br>- Alt-F2 > <code>sudo updatevx</code>
