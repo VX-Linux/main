@@ -6,7 +6,7 @@
 - Appmaker: Create apps for your favourite online activities
 - Automatic configuration for bluetooth hardware, display graphics (ATI and Intel), laptops and SSD drives
 - BIOS and UEFI compatible
-- Browser Manager: Install/uninstall popular browsers
+- Browser Manager: Install/uninstall popular browsers (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
 - Layouts: (Pictured above) Several layouts to suit your workflow (Default Plasma, Elementary, Mac, MX, VX6, Win7, Win10, Win11)
 - Light, highly-optimised base
 - Light software set, minimal theming, no bloat, no bling bling
@@ -36,11 +36,14 @@
 - Update VX
 
 **Deb / Rpm Installer**
-- Double-click on the file to install in terminal
+- Double-click the deb/rpm file to install in terminal
+
+**Flatpak Installer**
+- Double-click the flatpakref file to install in terminal
 
 **Updates arriving in v6.0**
 - All installers updated (most have been updated to download the latest release)
-- Browser manager (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
+- Browser manager
 - ISO built with new updated mklive
 - Layout switcher
 - Unused kernels added to Cleanup
