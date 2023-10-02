@@ -11,9 +11,7 @@
 - Flatpak Installer: Double-click the flatpakref file to install in terminal
 - Light, highly-optimised base
 - Light software set, minimal theming, no bloat, no bling bling
-- Service Manager: Enable/disable services
 - Sync: Automatically set timezone to current location
-- Update: Update all VX files, scripts and utilities
 - BIOS and UEFI compatible
 - Uses the default Void repos
 
@@ -31,10 +29,3 @@
 
 **Login**
 - anon / live
-
-**Things to do before installing to disk**
-- Set your custom keyboard and language
-- Run Service Manager to configure your startup services
-- Run Appmaker once so it's activated and available after installation
-- Avoid installing large / many software as you will likely run out of (live-session) space
-- Update VX
