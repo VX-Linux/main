@@ -5,19 +5,18 @@
 **Features**
 - Appmaker: Create apps for your favourite online activities
 - Automatic configuration for bluetooth hardware, display graphics (ATI and Intel), laptops and SSD drives
-- BIOS and UEFI compatible
+- Backup: Backup your entire installation (single file system only)
 - Browser Manager: Install/uninstall popular browsers (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
+- Cleanup: Empty trash and package cache, remove unused kernels and packages, etc
 - Layouts: (Pictured above) Several layouts to suit your workflow (Default Plasma, Elementary, Mac, MX, VX6, Win7, Win10, Win11)
 - Light, highly-optimised base
 - Light software set, minimal theming, no bloat, no bling bling
 - Service Manager: Enable/disable services
-- Uses the default Void repos
+- Sync: Automatically set timezone to current location
+- Update: Update all VX files, scripts and utilities
 
-**VX Tools**
-- Backup: Backup your entire installation (single file system only)<br>- Alt-F2 > <code>sudo backupvx</code>. Saved to /bak
-- Cleanup: Empty trash and package cache, remove unused kernels and packages<br>- Alt-F2 > <code>sudo cleanvx</code>
-- Sync: Automatically set timezone to current location<br>- Alt-F2 > <code>sudo syncvx</code>
-- Update: Update all VX files, scripts and utilities<br>- Alt-F2 > <code>sudo updatevx</code>
+- BIOS and UEFI compatible
+- Uses the default Void repos
 
 **Update Notifier**
 - When logging in you will be notified if new package updates are available. Update to remove the "nag" or ignore it to let updates build up. Remove "Notifier" from Autostart to remove the check.
@@ -40,10 +39,3 @@
 
 **Flatpak Installer**
 - Double-click the flatpakref file to install in terminal
-
-**Updates arriving in v6.0**
-- All installers updated (most have been updated to download the latest release)
-- Browser manager
-- ISO built with new updated mklive
-- Layout switcher
-- Unused kernels added to Cleanup
