@@ -3,7 +3,7 @@
 <img src="https://github.com/VX-Linux/main/blob/main/vx-layouts.png" style="width:960px;border-radius:10px!important;">
 
 **Features**
-- Appmaker: Create apps for your favourite online activities
+- Appmaker: Create apps for your favourite online activities (ensure no spaces in title)
 - Automatic configuration for bluetooth hardware, display graphics (ATI and Intel), laptops and SSD drives
 - Backup: Backup your entire installation (single file system only)
 - Browser Manager: Install/uninstall popular browsers (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
