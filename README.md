@@ -44,16 +44,16 @@
 
 **Credits**
 <br>
-The Void Team
+The Void Team<br>
 https://voidlinux.org
 
-KDE Plasma
+KDE Plasma<br>
 https://kde.org/plasma-desktop/
 
-Users for testing and providing valuable feedback
+Users for testing and providing valuable feedback<br>
 Special thanks to Daz
 
-Plasmoids
+Plasmoids<br>
 Avalon Plasmoid - adhe
 Minimal Menu - Juha Nuutinen
 kppleMenu - Kpple.org
