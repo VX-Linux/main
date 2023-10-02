@@ -1,5 +1,5 @@
 # VX Linux
-<img src="https://github.com/VX-Linux/main/blob/main/preview.jpg" style="width:960px;border-radius:10px!important;">
+<img src="https://github.com/VX-Linux/main/blob/main/vx-6.0.jpg" style="width:960px;border-radius:10px!important;">
 <img src="https://github.com/VX-Linux/main/blob/main/vx-layouts.png" style="width:960px;border-radius:10px!important;">
 
 **Features**
