@@ -54,9 +54,4 @@ Users for testing and providing valuable feedback<br>
 Special thanks to Daz
 
 Plasmoids<br>
-Avalon Plasmoid - adhe
-Minimal Menu - Juha Nuutinen
-kppleMenu - Kpple.org
-OnzeMenu 11 - adhe
-Run Command - Himprakash Deka
-Simple 10 Menu - Fauzie Rofi
+Avalon Plasmoid - adhe, Minimal Menu - Juha Nuutinen, kppleMenu - Kpple.org, OnzeMenu 11 - adhe, Run Command - Himprakash Deka, Simple 10 Menu - Fauzie Rofi
