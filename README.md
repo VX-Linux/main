@@ -14,7 +14,6 @@
 - Service Manager: Enable/disable services
 - Sync: Automatically set timezone to current location
 - Update: Update all VX files, scripts and utilities
-
 - BIOS and UEFI compatible
 - Uses the default Void repos
 
