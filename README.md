@@ -19,6 +19,13 @@
 - BIOS and UEFI compatible
 - Uses the default Void repos
 
+**Helper Scripts**
+- activate-bluetooth / deactivate-bluetooth
+- disable-wayland: Hide wayland session from login screen to get a cleaner login screen if only using X11 (enable-wayland to revert)
+- disable-xsession: Hide X11 session from login screen to get a cleaner login screen if only using Wayland (enable-xsession to revert)
+- installers: Setup scripts for 3rd-party software (/usr/share/vx/installers - right-click and select Run as Root)
+- set-default-layout: Set preferred layout for all new users
+
 **Update Notifier**
 - When logging in you will be notified if new package updates are available. Update to remove the "nag" or ignore it to let updates build up. Remove "Notifier" from Autostart to remove the check.
 
@@ -34,3 +41,21 @@
 - Run Appmaker once so it's activated and available after installation
 - Avoid installing large / many software as you will likely run out of (live-session) space
 - Update VX
+
+**Credits**
+The Void Team
+https://voidlinux.org
+
+KDE Plasma
+https://kde.org/plasma-desktop/
+
+Users for testing and providing valuable feedback
+Special thanks to Daz
+
+Plasmoids
+Avalon Plasmoid - adhe
+Minimal Menu - Juha Nuutinen
+kppleMenu - Kpple.org
+OnzeMenu 11 - adhe
+Run Command - Himprakash Deka
+Simple 10 Menu - Fauzie Rofi
