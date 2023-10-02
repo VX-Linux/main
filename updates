@@ -1,7 +1,0 @@
-* Add Create ISO from folder action (data)
-* Add selective options to cleanup
-* Fix clamav installer
-* Fix FreeOffice icons
-* Update Chrome installer to remove extra apps now installed by google
-* Update Edge installer to 115
-* Update Virtualbox installer to newer extension pack (7.0.10)
