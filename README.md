@@ -8,6 +8,8 @@
 - Backup: Backup your entire installation (single file system only)
 - Browser Manager: Install/uninstall popular browsers (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
 - Cleanup: Empty trash and package cache, remove unused kernels and packages, etc
+- Deb / Rpm Installer: Double-click the deb/rpm file to install in terminal
+- Flatpak Installer: Double-click the flatpakref file to install in terminal
 - Layouts: (Pictured above) Several layouts to suit your workflow (Default Plasma, Elementary, Mac, MX, VX6, Win7, Win10, Win11)
 - Light, highly-optimised base
 - Light software set, minimal theming, no bloat, no bling bling
@@ -32,9 +34,3 @@
 - Run Appmaker once so it's activated and available after installation
 - Avoid installing large / many software as you will likely run out of (live-session) space
 - Update VX
-
-**Deb / Rpm Installer**
-- Double-click the deb/rpm file to install in terminal
-
-**Flatpak Installer**
-- Double-click the flatpakref file to install in terminal
