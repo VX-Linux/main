@@ -19,7 +19,7 @@
 - BIOS and UEFI compatible
 - Uses the default Void repos
 
-**Helper Scripts**
+**Helper Scripts (run as root)**
 - activate-bluetooth / deactivate-bluetooth
 - disable-wayland: Hide wayland session from login screen to get a cleaner look if only using X11 (enable-wayland to revert)
 - disable-xsession: Hide X11 session from login screen to get a cleaner look if only using Wayland (enable-xsession to revert)
