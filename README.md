@@ -21,8 +21,8 @@
 
 **Helper Scripts**
 - activate-bluetooth / deactivate-bluetooth
-- disable-wayland: Hide wayland session from login screen to get a cleaner login screen if only using X11 (enable-wayland to revert)
-- disable-xsession: Hide X11 session from login screen to get a cleaner login screen if only using Wayland (enable-xsession to revert)
+- disable-wayland: Hide wayland session from login screen to get a cleaner look if only using X11 (enable-wayland to revert)
+- disable-xsession: Hide X11 session from login screen to get a cleaner look if only using Wayland (enable-xsession to revert)
 - installers: Setup scripts for 3rd-party software (/usr/share/vx/installers - right-click and select Run as Root)
 - set-default-layout: Set preferred layout for all new users (users can still change their layout after this is set)
 
