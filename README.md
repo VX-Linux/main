@@ -43,6 +43,7 @@
 - Update VX
 
 **Credits**
+<br>
 The Void Team
 https://voidlinux.org
 
