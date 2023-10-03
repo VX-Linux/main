@@ -17,6 +17,9 @@
 
 **Helper Scripts (run as root)**
 - activate-bluetooth / deactivate-bluetooth
+- activate-firewall / deactivate-firewall
+- activate-flatpak / deactivate-flatpak
+- activate-printing / deactivate-printing
 - disable-wayland: Hide wayland session from login screen to get a cleaner look if only using X11 (enable-wayland to revert)
 - disable-xsession: Hide X11 session from login screen to get a cleaner look if only using Wayland (enable-xsession to revert)
 - installers: Setup scripts for 3rd-party software (/usr/share/vx/installers - right-click and select Run as Root)
