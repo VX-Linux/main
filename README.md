@@ -5,7 +5,7 @@
 - Appmaker: Create apps for your favourite online activities (ensure no spaces in title)
 - Autoconfigure: Automatic configuration for display graphics (ATI and Intel), laptops and SSD drives
 - Backup: Backup your entire installation (single file system only)
-- Browser Manager: Install/uninstall popular browsers (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
+- Browser Manager: Install/uninstall popular browsers (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Min, Opera, Pale Moon, Vivaldi, Waterfox)
 - Cleanup: Empty trash and package cache, remove unused kernels and packages, etc
 - Deb / Rpm Installer: Double-click the deb/rpm file to install in terminal
 - Flatpak Installer: Double-click the flatpakref file to install in terminal
