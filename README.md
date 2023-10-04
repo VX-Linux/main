@@ -3,7 +3,7 @@
 
 **Features**
 - Appmaker: Create apps for your favourite online activities (ensure no spaces in title)
-- Automatic configuration for bluetooth hardware, display graphics (ATI and Intel), laptops and SSD drives
+- Autoconfigure: Automatic configuration for display graphics (ATI and Intel), laptops and SSD drives
 - Backup: Backup your entire installation (single file system only)
 - Browser Manager: Install/uninstall popular browsers (Brave, Chrome, Chromium, Edge, Falkon, Firefox, Opera, Pale Moon, Vivaldi, Waterfox)
 - Cleanup: Empty trash and package cache, remove unused kernels and packages, etc
