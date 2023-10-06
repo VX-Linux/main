@@ -32,6 +32,3 @@
 
 **Login**
 - anon / live
-
-**Last Release**
-- As I'm not willing to jump through more hoops for Micro$haft this will be the last release. You can rebuild VX yourself using the included build files.
