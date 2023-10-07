@@ -15,15 +15,6 @@
 - BIOS and UEFI compatible
 - Uses the default Void repos
 
-**Helper Scripts (run as root)**
-- activate-bluetooth / deactivate-bluetooth
-- activate-firewall / deactivate-firewall
-- activate-flatpak / deactivate-flatpak
-- activate-printing / deactivate-printing
-- disable-wayland: Hide wayland session from login screen to get a cleaner look if only using X11 (enable-wayland to revert)
-- disable-xsession: Hide X11 session from login screen to get a cleaner look if only using Wayland (enable-xsession to revert)
-- installers: Setup scripts for 3rd-party software (/usr/share/vx/installers - right-click and select Run as Root)
-
 **Update Notifier**
 - When logging in you will be notified if new package updates are available. Update to remove the "nag" or ignore it to let updates build up. Remove "Notifier" from Autostart to remove the check.
 
